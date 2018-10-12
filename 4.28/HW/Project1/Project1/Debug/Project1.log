@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\user\desktop\程式作業\10.18\107360242\4.28\source\source.cpp(21): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\程式作業\10.18\107360242\4.28\source\source.cpp(26): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\程式作業\10.18\107360242\4.28\source\source.cpp(34): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\程式作業\10.18\107360242\4.28\source\source.cpp(43): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  Project1.vcxproj -> C:\Users\user\Desktop\程式作業\10.18\107360242\4.28\HW\Project1\Debug\Project1.exe
